@@ -17,7 +17,7 @@ You can access the full documentation via the links below:
 
 ### 1. Inventory Management System
 
-- [Use Case Templates – Inventory Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates-Inventory-Management-System)  
+- [Use Case Templates – Inventory Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates---Inventory-Management-System)  
   Details core functionalities for Administrators and Inventory Managers, including Login, Budget Management, Inventory Updates, and more.
 
 - [Risk Assessment – Inventory Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Inventory_Managment_Risk_Assessment)  
@@ -27,7 +27,7 @@ You can access the full documentation via the links below:
 
 ### 2. Veteran Health Management System
 
-- [Use Case Templates – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates-Veteran-Health-Managment-System)  
+- [Use Case Templates – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates---Veteran-Health-Managment-System)  
   Covers functionalities for Nurses, including Daily Tests, Follow-Up Management, and Mental Health Tracking.
 
 - [Risk Assessment – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Veteran_Health_Risk_Assessment)  
