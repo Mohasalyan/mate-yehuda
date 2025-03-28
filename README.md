@@ -27,7 +27,7 @@ You can access the full documentation via the links below:
 
 ### 2. Veteran Health Management System
 
-- [Use Case Templates – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates-Veteran-Health-Management-System)  
+- [Use Case Templates – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates---Veteran-Health-Management-System)  
   Covers functionalities for Nurses, including Daily Tests, Follow-Up Management, and Mental Health Tracking.
 
 - [Risk Assessment – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Veteran_Health_Risk_Assessment)  
