@@ -15,6 +15,10 @@ Each system includes Use Case templates and a Risk Assessment table to support d
 
 You can access the full documentation via the links below:
 
+[Risk And Test Cases](https://github.com/Mohasalyan/mate-yehuda/wiki/Risks-and-Test-Cases-%E2%80%90-Both-Projects)  
+  Contains risk and test cases evaluations to the both projects.
+
+
 ### 1. Inventory Management System
 
 - [Use Case Templates – Inventory Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Use-Case-Templates---Inventory-Management-System)  
