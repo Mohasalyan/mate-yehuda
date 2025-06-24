@@ -34,7 +34,7 @@ You can access the full documentation via the links below:
   Contains risk evaluations specific to the healthcare module.
 
 - [Architecture and Design – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/%F0%9F%8F%A5-Nurses-Management-System%E2%80%90Architecture-and-Design)  
-  Contains risk evaluations specific to the healthcare module.
+  Contains architecture and design specific to the healthcare module.
 
 ---
 
