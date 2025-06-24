@@ -33,7 +33,7 @@ You can access the full documentation via the links below:
 - [Risk Assessment – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Veteran_Health_Risk_Assessment)  
   Contains risk evaluations specific to the healthcare module.
 
-- [Risk And Test Cases – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Risks-and-Test-Cases-%E2%80%90-Both-Projects)  
+- [Architecture and Design – Veteran Health Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/%F0%9F%8F%A5-Nurses-Management-System%E2%80%90Architecture-and-Design)  
   Contains risk evaluations specific to the healthcare module.
 
 ---
