@@ -11,6 +11,12 @@ Each system includes Use Case templates and a Risk Assessment table to support d
 
 ---
 
+## Repositries:
+
+* [Inventory Management System](https://github.com/AmruAlyan/inventory-system)
+* [Veteran Health Management System](https://github.com/Mohasalyan/nurse-my)
+
+---
 ## Project Documentation
 
 You can access the full documentation via the links below:
