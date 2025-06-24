@@ -27,6 +27,9 @@ You can access the full documentation via the links below:
 - [Risk Assessment – Inventory Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Inventory_Managment_Risk_Assessment)  
   Lists potential system risks with their probability, impact, and mitigation strategies.
 
+- [Architecture and Design – Inventory Management System](https://github.com/Mohasalyan/mate-yehuda/wiki/Architecture-&-Design-%E2%80%90-Inventory-Management-System)  
+  Contains architecture and design specific to the inventory module.
+
 ---
 
 ### 2. Veteran Health Management System
